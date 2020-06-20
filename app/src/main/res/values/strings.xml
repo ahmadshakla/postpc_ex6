@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Baby  Im home</string>
+    <string name="latitude">Latitude</string>
+    <string name="_0_0">0.0</string>
+    <string name="start_tracking">Start Tracking</string>
+    <string name="set_location_as_home">Set location as home</string>
+    <string name="clear_home_location">clear home location</string>
+    <string name="longitude">Longitude</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="phone_number">phone number</string>
+</resources>
